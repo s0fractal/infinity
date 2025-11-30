@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "☯.md",
+                "file": "Y.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "☯"
+              "title": "Y"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "☯.md",
+                "file": "Y.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для ☯"
+              "title": "Зворотні посилання для Y"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "☯.md",
+                "file": "Y.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з ☯"
+              "title": "Вихідні посилання з Y"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "☯.md",
+                "file": "Y.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст ☯"
+              "title": "Вміст Y"
             }
           },
           {
@@ -185,10 +185,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "☯.md"
+                "file": "Y.md"
               },
               "icon": "lucide-info",
-              "title": "Властивості файлу для ☯"
+              "title": "Властивості файлу для Y"
             }
           }
         ]
@@ -210,6 +210,17 @@
   },
   "active": "71952d32a3cb36ac",
   "lastOpenFiles": [
+    "𝔹.md",
+    "𝟏.md",
+    "7.md",
+    "Ⓜ.md",
+    "𝕊.md",
+    "K.md",
+    "🌱.md",
+    "☯.md",
+    "test_🌱.ts",
+    "🌱.ts",
+    "↯.md",
     "⊥.md",
     "◑.md",
     "◐.md",
@@ -227,15 +238,6 @@
     "⧽.md",
     "?.md",
     "∧.md",
-    "☍.md",
-    "☯.md",
-    "⤳.md",
-    "⤑.md",
-    "⇢.md",
-    "⇖.md",
-    "∈.md",
-    "⇴.md",
-    "⇌.md",
     "🌌.ьв",
     "copies/λ/make/projections/ts.js",
     "copies/λ/lens/projections/ts.js",
@@ -244,8 +246,6 @@
     "copies/λ/map/𝟏.ts",
     "copies/λ/map/test_𝟏.ts",
     "copies/λ/unfold/𝟏.ts",
-    "copies/λ/unfold/test_𝟏.ts",
-    "copies/λ/make/projections",
     "Без назви.canvas"
   ]
 }
