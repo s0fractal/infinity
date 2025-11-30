@@ -81,7 +81,7 @@ Following the frontmatter, the markdown body provides human-readable (and AI-lea
 
 The Living Glyph File is the atomic unit for constructing the `λ⁷ Tensor Field`.
 *   **Vector Space**: The `$vector` field explicitly places the glyph in the 7-dimensional computational space.
-*   **Tensor Interactions**: The `$exec` field, if present, defines how this glyph operates, and its interactions with other glyphs are formally part of the `Tᵢⱼₖ` tensor defined in `[@L7Tensor.md]`.
+*   **Tensor Interactions**: The `$exec` field, if present, defines how this glyph operates, and its interactions with other glyphs are formally part of the `Tᵢⱼₖ` tensor defined in `[λ⁷ Tensor Field](﹫L7Tensor.md)`.
 *   **Derivations**: Complex programs are `Derivations` (sequences of glyphs) where each glyph is a Living Glyph File, and their composition (`∘`) creates new, higher-order Living Glyph Files implicitly.
 
 ---

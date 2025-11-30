@@ -1,4 +1,4 @@
-// @file: ⭘.ts
+// ﹫file: ⭘.ts
 //
 // This file defines the ⭘ (Base Layer) for the λ⁷ Tensor Field.
 // It exports the 7 fundamental morphisms as an immutable object `O`,
@@ -8,7 +8,7 @@ import { identity } from "./𝟏.ts"; // Assuming 𝟏.ts exports 'identity'
 import { select } from "./⍰.ts";   // Assuming ⍰.ts exports 'select'
 import { and } from "./∧.ts";     // Assuming ∧.ts exports 'and'
 import { not } from "./¬.ts";     // Assuming ¬.ts exports 'not'
-import { apply } from "./@.ts";     // Assuming @.ts exports 'apply'
+import { apply } from "./﹫.ts";     // Assuming ﹫.ts exports 'apply'
 import { pair } from "./⊗.ts";      // Assuming ⊗.ts exports 'pair'
 import { lambda } from "./λ.ts";    // Assuming λ.ts exports 'lambda'
 
@@ -22,7 +22,7 @@ import { lambda } from "./λ.ts";    // Assuming λ.ts exports 'lambda'
  */
 export const O = {
     '𝟏': identity,  // Identity (I)
-    '@': apply,     // Application (@)
+    '﹫': apply,     // Application (﹫)
     'λ': lambda,    // Abstraction (λ)
     '∧': and,       // Logical AND (∧)
     '¬': not,       // Logical NOT (¬)
@@ -33,7 +33,7 @@ export const O = {
 /**
  * Type alias for the literal string keys of the 7 fundamental λ⁷ morphisms.
  * This provides a precise type for referring to the glyphs themselves.
- * E.g., '𝟏', '@', 'λ', '∧', '¬', '⍰', '⊗'.
+ * E.g., '𝟏', '﹫', 'λ', '∧', '¬', '⍰', '⊗'.
  */
 export type Lambda7MorphismKey = keyof typeof O;
 

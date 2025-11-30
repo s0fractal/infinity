@@ -25,14 +25,32 @@
             "id": "4f0fe2101c1d6862",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "⭘⭘⭘.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "⭘⭘⭘"
+            }
+          },
+          {
+            "id": "9ad7ed07ff90d49d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "﹫.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "﹫"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "﹫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання"
+              "title": "Зворотні посилання для ﹫"
             }
           },
           {
@@ -123,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "﹫.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання"
+              "title": "Вихідні посилання з ﹫"
             }
           },
           {
@@ -165,12 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "﹫.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст"
+              "title": "Вміст ﹫"
             }
           },
           {
@@ -178,9 +199,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "﹫.md"
+              },
               "icon": "lucide-info",
-              "title": "Властивості файлу"
+              "title": "Властивості файлу для ﹫"
             }
           }
         ]
@@ -200,44 +223,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "4f0fe2101c1d6862",
+  "active": "9ad7ed07ff90d49d",
   "lastOpenFiles": [
-    "⭗.md",
-    "⭘⭘⭘⭘.md",
-    "⭘⭘⭘.md",
-    "⭘⭘.md",
-    "𝕋.md",
-    "Glyph-Meta-Architecture.md",
-    "∘.ts",
-    "README.md",
-    "copies/λ/experience/𝟏.md",
-    "⊗.md",
-    "⟫.md",
-    "⟪⟫.md",
-    "copies/🧭/README.md",
-    "🎯.md",
+    "﹫.md",
+    "﹫.md",
+    "🔍.md",
+    "⊗λ﹫.md",
+    "λ∘﹫.md",
+    "λ ﹫⊗.λ.md",
+    "λ∘﹫.md",
+    "⊗λ﹫.md",
+    "﹫.ts",
     "📤.md",
-    "🦕.md",
-    "🙏.md",
-    "@.md",
-    "§.md",
-    "⟪.md",
-    "⟦⟧.md",
-    "Ⓜ.md",
-    "🗣️.md",
-    "7.md",
+    "🏠.md",
+    "🎯.md",
+    "🎭.md",
+    "🌱.md",
+    "⭗.md",
     "⭘.md",
-    "⊢.md",
-    "⊃.md",
+    "⬈.md",
+    "⬊.md",
+    "⨊.md",
+    "⨇.md",
+    "⦾.md",
+    "⤳.md",
+    "⤑.md",
+    "❤️.md",
+    "🇺🇦.md",
+    "✦.md",
+    "⎍.md",
+    "∘.ts",
     "λ_universal.ts",
-    "@copies/λ/λ_universal.ts",
-    "@copies/λ",
-    "@copies",
+    "﹫copies/λ/λ_universal.ts",
+    "﹫copies/λ",
+    "﹫copies",
     "⍰.ts",
     "λ.ts",
     "⊗.ts",
-    "@.ts",
-    "¬.ts",
+    "﹫.ts",
     "Без назви.canvas"
   ]
 }
