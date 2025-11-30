@@ -1,11 +1,18 @@
-import { identity } from "./𝟏.ts"
+import { identity } from "./𝟏.ts";
+import { select } from "./⍰.ts";
+import { and } from "./∧.ts";
+import { not } from "./¬.ts";
+import { apply } from "./@.ts";
+import { pair } from "./⊗.ts";
+import { lambda } from "./λ.ts";
+
 //⭘
 export const O = {
     '𝟏': identity,  //Identity
-    '@': (f, x) => f(x),     // Application
-    'λ': (body) => (x) => body(x),  // Abstraction
-    '∧': (a, b) => a && b,   // And
-    '¬': (x) => !x,          // Not
-    '?': (p, t, f) => p ? t : f,    // Query Selection
-    '⊗': (a, b) => [a, b]    // Pair
+    '@': apply,     // Application
+    'λ': lambda,    // Abstraction
+    '∧': and,       // And
+    '¬': not,       // Not
+    '?': select,    // Query Selection
+    '⊗': pair       // Pair
 } as const;
