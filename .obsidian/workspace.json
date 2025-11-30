@@ -25,10 +25,14 @@
             "id": "4f0fe2101c1d6862",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "copies/λ/12-universal-function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12-universal-function"
             }
           }
         ],
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "copies/λ/12-universal-function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання"
+              "title": "Зворотні посилання для 12-universal-function"
             }
           },
           {
@@ -123,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "copies/λ/12-universal-function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання"
+              "title": "Вихідні посилання з 12-universal-function"
             }
           },
           {
@@ -165,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "copies/λ/12-universal-function.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст"
+              "title": "Вміст 12-universal-function"
             }
           },
           {
@@ -178,9 +185,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "copies/λ/12-universal-function.md"
+              },
               "icon": "lucide-info",
-              "title": "Властивості файлу"
+              "title": "Властивості файлу для 12-universal-function"
             }
           }
         ]
@@ -202,6 +211,13 @@
   },
   "active": "4f0fe2101c1d6862",
   "lastOpenFiles": [
+    "λ_universal.ts",
+    "λ_universal.md",
+    "@copies/λ/λ_universal.ts",
+    "@copies/λ/λ_universal.md",
+    "@copies/λ",
+    "@copies",
+    "⇿.md",
     "⊃.md",
     "≄.md",
     "∨.md",
@@ -224,10 +240,6 @@
     "🎯.md",
     "🌌.md",
     "⨇.md",
-    "↻.md",
-    "◐.md",
-    "◇.md",
-    "⎍.md",
     "⍰.ts",
     "λ.ts",
     "⊗.ts",
@@ -235,9 +247,6 @@
     "¬.ts",
     "∧.ts",
     "?.ts",
-    "𝟏.ts",
-    "𝟏.еі",
-    "deno.lock",
     "Без назви.canvas"
   ]
 }
