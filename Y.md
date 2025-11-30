@@ -31,8 +31,7 @@ This is the most famous fixed-point combinator. It enables anonymous recursion (
 
 ## [🌌](🌌)
 
-### [⚡️](⚡️) (Intent)
-To achieve recursion without resorting to naming. To express the essence of self-reference in a completely abstract way.
+⚡️: To achieve recursion without resorting to naming. To express the essence of self-reference in a completely abstract way.
 
 ### [⩓](⩓.md) (Analogy)
 **A snake eating its own tail (Ouroboros).** The `Y` combinator creates a function that is "feeding itself" its own definition, allowing it to loop or recurse indefinitely. In a lazy context, the snake only bites when it needs to. In a strict context (`Y` without modification), it tries to swallow itself whole instantly, leading to a choke (stack overflow). This is why `Z` is needed for strict languages.
