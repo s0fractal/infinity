@@ -2,105 +2,37 @@
 $: Y
 $type: Combinator
 $category: RecursionScheme
-$aliases: [Y-combinator, fixed-point-combinator]
-$energy: ✦980
+$aliases: [Y-combinator, fixed-point-combinator, lazy-fixed-point]
+$energy: ✦950
 ---
 
-# Y — Fixed-Point Combinator
+# Y — Y-Combinator
 
-> "To recurse is to know thyself, infinitely."
-> "Рекурсія — це нескінченне самопізнання."
+> "Recursion, in its purest form."
+> "Рекурсія в її найчистішій формі."
 
 ---
 
 ## ∈
 
-**Визначення (Applicative-order):**
-`λf.(λx.f (x x)) (λx.f (x x))`
+**The Applicative-order Y Combinator:**
+`Y = λf.(λx.f (x x)) (λx.f (x x))`
 
-**Тип:**
-`((a → b) → (a → b)) → (a → b)`
-
----
-
-## ⊃
-
-- **[@](@.md)**: Application
-- **[λ](λ.md)**: Abstraction
-
----
-
-## ⨊
-
-- **[⚬](⚬.md) (Fixed-Point)**: `Y f = f (Y f)`
-
----
-
-## →
-
-`Y f → f (Y f) → f (f (Y f)) → ...` (infinite expansion)
+This is the most famous fixed-point combinator. It enables anonymous recursion (a function calling itself without being named) in languages with lazy evaluation. In a strict (eager) language, this would cause a stack overflow.
 
 ---
 
 ## 🔗
 
-- **Recursion**: Дозволяє анонімну рекурсію в λ-численні.
-- **Loops**: Замінює імперативні цикли (`for`, `while`) чистою функціональною альтернативою.
-- **[Z](Z.md)-Combinator**: Варіант для мов з енергійною (strict) семантикою.
+- **[Z](Z.md) (Z-Combinator)**: The `Z` combinator is a variant of `Y` adapted for strict (eager) evaluation languages by using η-expansion to delay the recursive call.
+- **Fixed Point**: `Y f = f (Y f)`. `Y` finds a "fixed point" of a function `f`, which is a value `x` such that `f(x) = x`. In this case, the fixed point is the recursive function itself.
 
 ---
 
-## 📐
+## [🌌](🌌)
 
-```
-     ┌─────────────┐
-     ↓             ↑
-   ┌─Y─┐         ┌─f─┐
-   │   │────────>│   │
-   └───┘         └───┘
-     ↑             │
-     └─────────────┘
-(Вихід Y(f) стає входом для f, а вихід f повертається в Y)
-```
+### [⚡️](⚡️) (Intent)
+To achieve recursion without resorting to naming. To express the essence of self-reference in a completely abstract way.
 
----
-
-## 🎭
-
-```typescript
-// Анонімний факторіал через Y-комбінатор
-const factorial = Y(
-  (recurse) => (n) => (n === 0)
-    ? 1
-    : n * recurse(n - 1)
-);
-
-factorial(5); // → 120
-```
-
----
-
-## 📊
-
-```json
-{
-  "purity": 1.0,
-  "termination": "Not Guaranteed",
-  "cost": "O(depth of recursion)"
-}
-```
-
----
-
-## 🌀
-
-- **D1: Self-Reference**: Здатність функції посилатися на саму себе.
-- **D2: Infinity**: Потенціал до нескінченного розгортання.
-- **D3: Control**: Сама функція `f` контролює, коли зупинити нескінченний цикл.
-
----
-
-## ≡
-
-`Y f` є розв'язком `x` для рівняння `x = f(x)`.
-```
+### [⩓](⩓.md) (Analogy)
+**A snake eating its own tail (Ouroboros).** The `Y` combinator creates a function that is "feeding itself" its own definition, allowing it to loop or recurse indefinitely. In a lazy context, the snake only bites when it needs to. In a strict context (`Y` without modification), it tries to swallow itself whole instantly, leading to a choke (stack overflow). This is why `Z` is needed for strict languages.
