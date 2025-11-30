@@ -79,15 +79,11 @@ always42(null);    // → 42
 
 ---
 
-## 📊
+## [⎍](⎍.md) (Performance Metrics)
 
-```json
-{
-  "purity": 1.0,
-  "termination": "Always (O(1))",
-  "complexity": "O(1)"
-}
-```
+- **[⦾](⦾.md)**: 1.0
+- **[⏏](⏏.md)**: [⊤](⊤.md) (`Always`)
+- **[∮](∮.md)**: O(1)
 
 ---
 

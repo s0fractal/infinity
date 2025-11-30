@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y.md",
+                "file": "⟪⟫.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Y"
+              "title": "⟪⟫"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Y.md",
+                "file": "⟪⟫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для Y"
+              "title": "Зворотні посилання для ⟪⟫"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Y.md",
+                "file": "⟪⟫.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з Y"
+              "title": "Вихідні посилання з ⟪⟫"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y.md",
+                "file": "⟪⟫.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст Y"
+              "title": "Вміст ⟪⟫"
             }
           },
           {
@@ -185,10 +185,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Y.md"
+                "file": "⟪⟫.md"
               },
               "icon": "lucide-info",
-              "title": "Властивості файлу для Y"
+              "title": "Властивості файлу для ⟪⟫"
             }
           }
         ]
@@ -210,34 +210,34 @@
   },
   "active": "71952d32a3cb36ac",
   "lastOpenFiles": [
+    "⇩.md",
+    "Δ.md",
+    "𝕋.md",
+    "L7Tensor.md",
+    "§.md",
+    "@.md",
+    "→.md",
+    "⤄.md",
+    "≡.md",
+    "⟶.md",
+    "⭘.md",
+    "⤑.md",
+    "⦾.md",
+    "∅.md",
+    "⨁.md",
+    "⇴.md",
+    "⊚.md",
+    "↠.md",
+    "☐.md",
+    "📤.md",
+    "Y.md",
     "𝔹.md",
     "𝟏.md",
     "7.md",
     "Ⓜ.md",
     "𝕊.md",
-    "K.md",
-    "🌱.md",
-    "☯.md",
     "test_🌱.ts",
     "🌱.ts",
-    "↯.md",
-    "⊥.md",
-    "◑.md",
-    "◐.md",
-    "◎.md",
-    "◇.md",
-    "▤.md",
-    "⏏.md",
-    "⎍.md",
-    "⊤.md",
-    "⊢.md",
-    "⇡.md",
-    "⇗.md",
-    "↠.md",
-    "→.md",
-    "⧽.md",
-    "?.md",
-    "∧.md",
     "🌌.ьв",
     "copies/λ/make/projections/ts.js",
     "copies/λ/lens/projections/ts.js",
