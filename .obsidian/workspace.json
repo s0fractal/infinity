@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "↻.md",
+                "file": "𝟏.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "↻"
+              "title": "𝟏"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⟦⟧.md",
+                "file": "𝟏.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⟦⟧"
+              "title": "𝟏"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "↻.md",
+                "file": "𝟏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для ↻"
+              "title": "Зворотні посилання для 𝟏"
             }
           },
           {
@@ -127,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "↻.md",
+                "file": "𝟏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з ↻"
+              "title": "Вихідні посилання з 𝟏"
             }
           },
           {
@@ -170,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "↻.md",
+                "file": "𝟏.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст ↻"
+              "title": "Вміст 𝟏"
             }
           },
           {
@@ -185,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "↻.md"
+                "file": "𝟏.md"
               },
               "icon": "lucide-info",
-              "title": "Властивості файлу для ↻"
+              "title": "Властивості файлу для 𝟏"
             }
           }
         ]
@@ -208,8 +209,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "71952d32a3cb36ac",
+  "active": "4f0fe2101c1d6862",
   "lastOpenFiles": [
+    "ℕ.md",
+    "⟦⟧.md",
+    "𝟏.md",
+    "🌱.md",
+    "🎭.md",
+    "🎯.md",
+    "🌌.md",
+    "⨇.md",
+    "↻.md",
     "◐.md",
     "◇.md",
     "⎍.md",
@@ -221,7 +231,6 @@
     "⊢.md",
     "⊡.md",
     "⟦.md",
-    "⟦⟧.md",
     "⧽.md",
     "⊗.md",
     "⊃.md",
@@ -229,14 +238,6 @@
     "⍰.ts",
     "π.md",
     "≡.md",
-    "≄.md",
-    "≃.md",
-    "∮.md",
-    "∨.md",
-    "∧.md",
-    "∘.md",
-    "⊚.md",
-    "∅.md",
     "λ.ts",
     "⊗.ts",
     "@.ts",
