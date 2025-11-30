@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z.md",
+                "file": "?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Z"
+              "title": "?"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z.md",
+                "file": "?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для Z"
+              "title": "Зворотні посилання для ?"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z.md",
+                "file": "?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з Z"
+              "title": "Вихідні посилання з ?"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z.md",
+                "file": "?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст Z"
+              "title": "Вміст ?"
             }
           },
           {
@@ -185,10 +185,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Z.md"
+                "file": "?.md"
               },
               "icon": "lucide-info",
-              "title": "Властивості файлу для Z"
+              "title": "Властивості файлу для ?"
             }
           }
         ]
@@ -210,6 +210,25 @@
   },
   "active": "71952d32a3cb36ac",
   "lastOpenFiles": [
+    "⊤.md",
+    "⬋.md",
+    "∨.md",
+    "Ⓜ.md",
+    "⧽.md",
+    "⟦⟧.md",
+    "?.md",
+    "≃.md",
+    "⟶.md",
+    "⤄.md",
+    "⤫.md",
+    "⦾.md",
+    "⨁.md",
+    "⨇.md",
+    "⨊.md",
+    "7.md",
+    "Z.md",
+    "⚡️.md",
+    "𝟏.md",
     "⩓.md",
     "Y.md",
     "𝕌.md",
@@ -218,25 +237,6 @@
     "§.md",
     "🌌.md",
     "🌌.ьв",
-    "⟪⟫.md",
-    "⟦⟧.md",
-    "?.md",
-    "α.md",
-    "λ.md",
-    "π.md",
-    "⦾.md",
-    "⨁.md",
-    "⤫.md",
-    "⤄.md",
-    "⟶.md",
-    "⟁.md",
-    "❤️.md",
-    "✦.md",
-    "🇺🇦.md",
-    "⛓️.md",
-    "⚬.md",
-    "⚫.md",
-    "⚡️.md",
     "copies/λ/make/projections/ts.js",
     "copies/λ/lens/projections/ts.js",
     "copies/λ/hylo/projections/ts.js",
