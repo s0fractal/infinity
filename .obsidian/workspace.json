@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⟪⟫.md",
+                "file": "⍰.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⟪⟫"
+              "title": "⍰"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⟪⟫.md",
+                "file": "⍰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для ⟪⟫"
+              "title": "Зворотні посилання для ⍰"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⟪⟫.md",
+                "file": "⍰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з ⟪⟫"
+              "title": "Вихідні посилання з ⍰"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⟪⟫.md",
+                "file": "⍰.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст ⟪⟫"
+              "title": "Вміст ⍰"
             }
           },
           {
@@ -185,10 +185,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "⟪⟫.md"
+                "file": "⍰.md"
               },
               "icon": "lucide-info",
-              "title": "Властивості файлу для ⟪⟫"
+              "title": "Властивості файлу для ⍰"
             }
           }
         ]
@@ -210,6 +210,7 @@
   },
   "active": "71952d32a3cb36ac",
   "lastOpenFiles": [
+    "⟪⟫.md",
     "⍰.ts",
     "π.md",
     "⊗.md",
@@ -245,7 +246,6 @@
     "𝟏.ts",
     "𝟏.еі",
     "deno.lock",
-    "⭘.ts",
     "Без назви.canvas"
   ]
 }
