@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎯.md",
+                "file": "¬.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🎯"
+              "title": "¬"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@.md",
+                "file": "7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@"
+              "title": "7"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@.md",
+                "file": "¬.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для @"
+              "title": "Зворотні посилання для ¬"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@.md",
+                "file": "¬.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з @"
+              "title": "Вихідні посилання з ¬"
             }
           },
           {
@@ -171,21 +170,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@.md",
+                "file": "¬.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст @"
+              "title": "Вміст ¬"
+            }
+          },
+          {
+            "id": "aac216af3c24107a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "¬.md"
+              },
+              "icon": "lucide-info",
+              "title": "Властивості файлу для ¬"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,34 +208,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "4f0fe2101c1d6862",
+  "active": "71952d32a3cb36ac",
   "lastOpenFiles": [
-    "?.md",
-    "↣.md",
-    "@.md",
-    "∧.md",
     "⊃.md",
+    "∧.md",
     "⊗.md",
-    "λ.md",
-    "🙏.md",
-    "𝟏.md",
-    "7.md",
-    "🗣️.md",
-    "🧠.md",
-    "🎯.md",
-    "🏠.md",
-    "🌱.md",
-    "⭘.md",
-    "⟶.md",
-    "❤️.md",
-    "⟁.md",
-    "🇺🇦.md",
-    "✦.md",
+    "⊡.md",
     "◇.md",
+    "⚡️.md",
+    "⇾.md",
+    "@.md",
+    "?.md",
     "⟦⟧.md",
     "⟪⟫.md",
+    "🗣️.md",
+    "🔬.md",
+    "🏠.md",
+    "🎯.md",
+    "λ.md",
+    "𝕊.md",
+    "ℕ.md",
     "𝔹.md",
-    "⊡.md",
+    "⭘.md",
+    "𝟏.md",
+    "¬.md",
+    "7.md",
+    "🇺🇦.md",
+    "❤️.md",
+    "✦.md",
+    "Без назви.canvas",
+    "¬.ьв",
     "∧.ьв"
   ]
 }
