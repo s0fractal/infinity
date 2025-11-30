@@ -13,7 +13,7 @@ $energy: ✦950
 
 ---
 
-## ∈
+## [∈](∈)
 
 **The Applicative-order Y Combinator:**
 `Y = λf.(λx.f (x x)) (λx.f (x x))`
