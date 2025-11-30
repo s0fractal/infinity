@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@.md",
+                "file": "Z.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@"
+              "title": "Z"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@.md",
+                "file": "Z.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для @"
+              "title": "Зворотні посилання для Z"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@.md",
+                "file": "Z.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з @"
+              "title": "Вихідні посилання з Z"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@.md",
+                "file": "Z.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст @"
+              "title": "Вміст Z"
             }
           },
           {
@@ -185,10 +185,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "@.md"
+                "file": "Z.md"
               },
               "icon": "lucide-info",
-              "title": "Властивості файлу для @"
+              "title": "Властивості файлу для Z"
             }
           }
         ]
@@ -210,42 +210,42 @@
   },
   "active": "71952d32a3cb36ac",
   "lastOpenFiles": [
-    "⎍.md",
-    "@.md",
-    "§.md",
-    "𝟏.md",
-    "⤫.md",
-    "≄.md",
-    "⟪⟫.md",
-    "copies/λ/const/README.md",
-    "copies/🧭/README.md",
-    "🛠️.md",
-    "🔍.md",
-    "⨇.md",
-    "⛓️.md",
-    "⇴.md",
-    "𝕌.md",
-    "Z.md",
-    "⚬.md",
+    "⩓.md",
     "Y.md",
+    "𝕌.md",
+    "𝕊.md",
     "K.md",
-    "∘.md",
-    "♨.md",
-    "⬊.md",
-    "⬈.md",
+    "§.md",
+    "🌌.md",
+    "🌌.ьв",
+    "⟪⟫.md",
+    "⟦⟧.md",
+    "?.md",
+    "α.md",
+    "λ.md",
+    "π.md",
+    "⦾.md",
+    "⨁.md",
+    "⤫.md",
     "⤄.md",
+    "⟶.md",
+    "⟁.md",
+    "❤️.md",
+    "✦.md",
+    "🇺🇦.md",
+    "⛓️.md",
+    "⚬.md",
+    "⚫.md",
+    "⚡️.md",
     "copies/λ/make/projections/ts.js",
     "copies/λ/lens/projections/ts.js",
     "copies/λ/hylo/projections/ts.js",
     "copies/λ/flatMap/projections/ts.js",
     "copies/λ/map/𝟏.ts",
-    "copies/λ/map/𝟏.md",
     "copies/λ/map/test_𝟏.ts",
     "copies/λ/unfold/𝟏.ts",
-    "copies/λ/unfold/𝟏.md",
     "copies/λ/unfold/test_𝟏.ts",
     "copies/λ/make/projections",
-    "copies/λ/make/makeUnfold.λ",
     "Без назви.canvas"
   ]
 }
