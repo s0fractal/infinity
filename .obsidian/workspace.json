@@ -39,32 +39,42 @@
             "id": "42bda295c175eb27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Частини діалогів.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Частини діалогів"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           },
           {
-            "id": "9ad7ed07ff90d49d",
+            "id": "ed1a2c5956852f14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "↦.md",
+                "file": "Без назви.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "↦"
+              "title": "Без назви"
+            }
+          },
+          {
+            "id": "d0d8c3e4c8ed2b5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "𝟏.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "𝟏"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Частини діалогів.md",
+                "file": "𝟏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для Частини діалогів"
+              "title": "Зворотні посилання для 𝟏"
             }
           },
           {
@@ -156,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Частини діалогів.md",
+                "file": "𝟏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з Частини діалогів"
+              "title": "Вихідні посилання з 𝟏"
             }
           },
           {
@@ -199,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Частини діалогів.md",
+                "file": "𝟏.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст Частини діалогів"
+              "title": "Вміст 𝟏"
             }
           },
           {
@@ -214,10 +224,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Частини діалогів.md"
+                "file": "𝟏.md"
               },
               "icon": "lucide-info",
-              "title": "Властивості файлу для Частини діалогів"
+              "title": "Властивості файлу для 𝟏"
             }
           }
         ]
@@ -237,21 +247,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "42bda295c175eb27",
+  "active": "d0d8c3e4c8ed2b5e",
   "lastOpenFiles": [
-    "Σλ⁸-Cosmological-Blueprint.md",
-    "architecture_shift_to_pure_glyphs.md",
-    "understanding_backtick_1.md",
-    "how_i_read_backticks.md",
-    "explanation_8th_morphism.md",
+    "🗣️.md",
+    "🔬.md",
+    "🦕.md",
     "🔍.md",
+    "📤.md",
+    "🎯.md",
+    "🎭.md",
+    "⦾.md",
+    "⤑.md",
+    "⤫.md",
+    "⤳.md",
+    "⨁.md",
+    "⩓.md",
+    "⨊.md",
+    "⬈.md",
+    "lambda-7-tensor-processor/README.md",
+    "∘.md",
+    "¬.md",
+    "⇩.md",
+    "rust-lang/rust.md",
+    "Без назви.md",
+    "().md",
+    "↦.md",
+    "rust-lang/book.md",
+    "rust-lang",
+    "Без назви 1.canvas",
+    "Без назви.base",
+    "𝟏.md",
     "Частини діалогів.md",
-    "свобода.md",
-    "🧠-103-FractalMirror-Cosmology.md",
-    "ти.md",
-    "Φ.md",
-    "Ψ.md",
-    "Ω.md",
     "π.json",
     "∞",
     "2100",
@@ -260,21 +286,6 @@
     "2025",
     "2022",
     "2014",
-    "1991",
-    "0882",
-    "🧠-102-Glyph-as-Binary-Atom.md",
-    "⊗λ@.md",
-    "⎍.md",
-    "⭘⭘⭘.md",
-    "𝟏.md",
-    "↦.md",
-    "↯.md",
-    "⇆.md",
-    "⇈.md",
-    "⟧.md",
-    "⟪⟫.md",
-    "⟪.md",
-    "⟦⟧.md",
     "Без назви.canvas"
   ]
 }
